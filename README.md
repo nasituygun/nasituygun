@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasituygun&label=Profile%20views&color=0e75b6&style=flat" alt="nasituygun" /> </p>
 
-- 🔭 I’m currently working on **Sotech Yazılım Danışmanlık**
-
 - 🌱 I’m currently learning **Spring, Kotlin.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasituygun?tab=repositories](https://github.com/nasituygun?tab=repositories)
