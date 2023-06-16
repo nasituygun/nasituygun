@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **predicts bugs from github repository with machine learning**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Spring Cloud**
 
 - 📫 How to reach me **nasituygun@gmail.com**
 
